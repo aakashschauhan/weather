@@ -46,12 +46,11 @@ body{
 }
 .display
 {
-    text-align: center;
+     margin-top: auto;
+    padding: 90px 0;
+    text-align:center;
     width: 520px;
-    color: #16a864;
-}
-.wrapper
-{
+    color: #15a864;
     margin: 0 9rem;
     background-color: rgb(172,189,221);
     height: 45vh;
